@@ -1,4 +1,4 @@
-import Canvas from './canvas';
+import Canvas from './canvas/CanvasModel';
 import Customizer from './pages/Customizer';
 
 function App() {
